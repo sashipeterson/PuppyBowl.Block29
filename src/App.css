@@ -1,0 +1,27 @@
+#root {
+  text-align: center;
+}
+
+.players {
+  background-color: rgb(126, 180, 255);
+  width: 260px;
+  height: auto;
+  margin:20px;
+  padding:20px;
+}
+
+.players img {
+  width: 80%;
+}
+
+.player {
+  background-color: rgb(126, 180, 255);
+  margin:20px;
+  padding:10px;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
